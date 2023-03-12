@@ -1,4 +1,5 @@
 # artista
+ONGOING
 The Django Intern Assignment requires the creation of a backend structure consisting of three tables: Client, Artist, and Work. The Client table should have a foreign key to a User instance, while the Artist table should have a many-to-many relationship with the Work table.
 The Work table should have a link and a work type, which can be "YouTube," "Instagram," or "Other."
 
